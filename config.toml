@@ -1,7 +1,7 @@
-base_url = "https://YOUR_URL.TLD"
-title = "site title"
-description = "YOUR_SITE_DESCRIPTION"
-author = "YOUR_NAME"
+base_url = "https://limshankuo.com"
+title = "Workflow and productivity with Generative AI like DeepSeek and others"
+description = "Use of Rust language and AI applications with LLM (DeepSeek) and others to enhance workflow and productivity"
+author = "Kuo Lim"
 theme = "tabi"
 generate_feeds = true
 compile_sass = true
